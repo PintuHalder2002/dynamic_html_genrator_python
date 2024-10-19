@@ -1,1 +1,1 @@
-# dynamic_html_genrator_python
+# dynamic_html_generator_python
